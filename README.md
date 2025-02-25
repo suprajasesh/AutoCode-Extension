@@ -10,7 +10,7 @@ This is the README for your extension "AutoCode-Extension." This extension helps
 
 ## Requirements
 
-Ensure you have the following dependencies installed before using this extension: NodeJS, Python, VSCode
+Ensure you have the following dependencies installed before using this extension: NodeJS, Python, VSCode, Gemini API Key
 
 ## Installation
 
@@ -26,6 +26,8 @@ Ensure you have the following dependencies installed before using this extension
    ```sh
    npm install
    ```
+4. Gnerate a Gemini API Key and use it.
+   
 ## Run Instructions
 1. Compile the program:
    ```sh
