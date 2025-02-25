@@ -35,6 +35,14 @@ Ensure you have the following dependencies installed before using this extension
    ```
 2. Press F5 to open the Extension Developer Mode
 
+## Key Components
+
+main.py: Generates the unit test code needed for a file
+
+gencode.py: Generates code from prompts using Gemini AI.
+
+fixes.py: Debugs code and suggests fixes.
+
 ## Usage
 
 1. Open a file in VS Code.
